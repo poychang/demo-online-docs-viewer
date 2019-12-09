@@ -1,0 +1,18 @@
+{
+    "name": "demo-online-docs-viewer",
+    "version": "1.0.0",
+    "description": "Demo online docs viewer with Microsoft Office Viewer and Google Docs Viewer",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/poychang/demo-online-docs-viewer.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/poychang/demo-online-docs-viewer/issues"
+    },
+    "homepage": "https://github.com/poychang/demo-online-docs-viewer#readme"
+}
