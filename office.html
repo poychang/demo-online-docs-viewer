@@ -82,7 +82,7 @@
             if (link.length <= 1) {
                 link = exampleUrl;
             }
-            document.getElementById('office').setAttribute('src', 'https://docs.google.com/a/umd.edu/viewer?url=' + link + '&embedded=true');
+            document.getElementById('office').setAttribute('src', `https://view.officeapps.live.com/op/embed.aspx?src=${link}`);
         }
     </script>
 </body>
